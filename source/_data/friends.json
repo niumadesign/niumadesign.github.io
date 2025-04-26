@@ -1,0 +1,37 @@
+[{
+    "avatar": "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/AI_APP_LOGOx300.png",
+    "name": "AI-APP",
+    "introduction": "AI 应用技术网",
+    "url": "https://ai-app.site/",
+    "title": "AI-APP/"
+}, {
+    "avatar": "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/logoyuan.png",
+    "name": "在线导航",
+    "introduction": "个人定制收藏网址导航",
+    "url": "https://daohang.online/",
+    "title": "在线导航"
+}, {
+    "avatar": "https://image.uisdc.com/wp-content/uploads/2018/05/uisdc-ico-apple.jpg",
+    "name": "优设导航",
+    "introduction": "国内专业设计师导航网站",
+    "url": "https://hao.uisdc.com/",
+    "title": "优设导航"
+}, {
+    "avatar": "https://asset.iamxk.com/wp-content/uploads/2020/08/iamxk_mp.png",
+    "name": "设计小咖",
+    "introduction": "做最优秀的设计师导航网址",
+    "url": "https://www.iamxk.com/",
+    "title": "设计小咖"
+}, {
+    "avatar": "https://static.uxmap.cn/build/8a3b577398409c6a85fce090100095c6.png",
+    "name": "UXMAP",
+    "introduction": "创建、分享有价值的知识图谱",
+    "url": "https://www.uxmap.cn/page/#/uxmap/home",
+    "title": "UXMAP"
+}, {
+    "avatar": "https://cdn.jsdelivr.net/gh/0326/imgs@main/blog/20250427022020944.png",
+    "name": "Link Note",
+    "introduction": "网址收藏和管理工具",
+    "url": "https://www.linknote.cn/",
+    "title": "Link Note"
+}]
